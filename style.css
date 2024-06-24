@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding:0;
+}
+nav{
+    background-color: black;
+    color:white;
+    padding:20px;
+}
+
+h1,li,ul{
+    display:inline;
+}
+
+ul{
+
+    margin-left:70%;
+}
+li{
+    color:grey;
+    font-size: 20px;
+}
+li:hover{
+    color:white;
+}
+.searchbar{
+    margin-left:100px;
+    margin-right:50px;
+    margin-top:50px;
+}
+input{
+    width:60%;
+    height:20%;
+    padding:15px;
+}
+
+.box{
+    border-color:black;
+    border-width:2px;
+    border-style:solid;
+    display:inline-block;
+    width:220px;
+    margin-top:50px;
+    margin:20px;
+
+}
+
+.aboutus
+{
+    margin:30px;
+    font-size: 18px;
+}
+
+.contactus
+{
+    background-color: black;
+    color:white;
+    padding:10px;
+
+}
